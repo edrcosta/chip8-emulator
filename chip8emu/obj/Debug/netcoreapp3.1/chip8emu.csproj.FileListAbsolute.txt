@@ -1,0 +1,13 @@
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/bin/Debug/netcoreapp3.1/chip8emu
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/bin/Debug/netcoreapp3.1/chip8emu.deps.json
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/bin/Debug/netcoreapp3.1/chip8emu.runtimeconfig.json
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/bin/Debug/netcoreapp3.1/chip8emu.runtimeconfig.dev.json
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/bin/Debug/netcoreapp3.1/chip8emu.dll
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/bin/Debug/netcoreapp3.1/chip8emu.pdb
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/obj/Debug/netcoreapp3.1/chip8emu.csprojAssemblyReference.cache
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/obj/Debug/netcoreapp3.1/chip8emu.csproj.CoreCompileInputs.cache
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/obj/Debug/netcoreapp3.1/chip8emu.AssemblyInfoInputs.cache
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/obj/Debug/netcoreapp3.1/chip8emu.AssemblyInfo.cs
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/obj/Debug/netcoreapp3.1/chip8emu.dll
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/obj/Debug/netcoreapp3.1/chip8emu.pdb
+/home/edercosta/projects/donet/emulador-chip8/chip8emu/obj/Debug/netcoreapp3.1/chip8emu.genruntimeconfig.cache
