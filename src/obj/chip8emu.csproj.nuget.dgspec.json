@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/edercosta/projects/donet/emulador-chip8/chip8emu/chip8emu.csproj": {}
+    "/home/edercosta/projects/donet/emulador-chip8/src/chip8emu.csproj": {}
   },
   "projects": {
-    "/home/edercosta/projects/donet/emulador-chip8/chip8emu/chip8emu.csproj": {
+    "/home/edercosta/projects/donet/emulador-chip8/src/chip8emu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/edercosta/projects/donet/emulador-chip8/chip8emu/chip8emu.csproj",
+        "projectUniqueName": "/home/edercosta/projects/donet/emulador-chip8/src/chip8emu.csproj",
         "projectName": "chip8emu",
-        "projectPath": "/home/edercosta/projects/donet/emulador-chip8/chip8emu/chip8emu.csproj",
+        "projectPath": "/home/edercosta/projects/donet/emulador-chip8/src/chip8emu.csproj",
         "packagesPath": "/home/edercosta/.nuget/packages/",
-        "outputPath": "/home/edercosta/projects/donet/emulador-chip8/chip8emu/obj/",
+        "outputPath": "/home/edercosta/projects/donet/emulador-chip8/src/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/edercosta/.nuget/NuGet/NuGet.Config"
