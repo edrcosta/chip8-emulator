@@ -6,34 +6,13 @@ namespace chip8emu
 {
     class FileParsing
     {
-        public static void GetFile(string fileName)
+        public static byte[] GetFile(string fileName)
         {
-            byte[] data = File.ReadAllBytes(fileName);
-            string fileData = System.Text.Encoding.UTF8.GetString(data);
-
-            foreach(int opcode in data){
-                Console.WriteLine(opcode);
-            }
-
-            // Console.WriteLine(fileData); // writes 32715 to the console
+            return File.ReadAllBytes(fileName);
         }
 
-        // public static String FormatHex(byte[] data){
-        //     
-        // }
-
-        // public static byte[] ReadFully(Stream input)
-        // {
-        //     byte[] buffer = new byte[16*1024];
-        //     using (MemoryStream ms = new MemoryStream())
-        //     {
-        //         int read;
-        //         while ((read = input.Read(buffer, 0, buffer.Length)) > 0)
-        //         {
-        //             ms.Write(buffer, 0, read);
-        //         }
-        //         return ms.ToArray();
-        //     }
+        // public static String ConvertToUTF8(byte[] data){
+        //     return System.Text.Encoding.UTF8.GetString(data);
         // }
     }
 }
